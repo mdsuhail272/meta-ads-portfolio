@@ -1,8 +1,16 @@
-# Mohammed Suhail — 3D Meta Ads Portfolio
+# Mohammed Suhail — Meta Ads Portfolio
 
-Cinematic static portfolio with a lightweight Three.js WebGL hero, CSS 3D campaign visuals, cursor tilt and responsive layouts.
+Premium cinematic static portfolio for Meta Ads / Performance Marketing.
 
-## Publish
-Use GitHub Pages from `main` and `/(root)`.
+## Stack
+- HTML
+- CSS
+- Vanilla JavaScript
+- CSS 3D transforms and pointer interactions
+- Google Fonts
 
-Three.js is loaded from a public CDN; no paid service is required.
+## GitHub Pages
+Publish from `main` and `/(root)`.
+
+## Accuracy
+Portfolio metrics are limited to information supplied for this portfolio. Add campaign-level results only when they can be supported by real records.
