@@ -1,16 +1,17 @@
-# Mohammed Suhail — Meta Ads Portfolio
+# Mohammed Suhail — Meta Ads / Performance Marketing Portfolio
 
-Premium cinematic static portfolio for Meta Ads / Performance Marketing.
+Premium static portfolio built for GitHub Pages.
 
-## Stack
-- HTML
-- CSS
-- Vanilla JavaScript
-- CSS 3D transforms and pointer interactions
-- Google Fonts
+## Files
+- `index.html` — portfolio structure/content
+- `styles.css` — visual system and responsive layout
+- `script.js` — reveal animations, smooth scrolling and subtle interaction
 
 ## GitHub Pages
-Publish from `main` and `/(root)`.
+Upload the four files to the repository root and enable:
+**Settings → Pages → Deploy from a branch → main → /(root)**
 
 ## Accuracy
-Portfolio metrics are limited to information supplied for this portfolio. Add campaign-level results only when they can be supported by real records.
+The portfolio deliberately avoids invented campaign outcomes. The Ads Manager-style interface and campaign scenarios are **illustrative visualizations**, not screenshots or claims of live account performance.
+
+Replace or update any experience figure if your verified records differ.
