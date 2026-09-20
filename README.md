@@ -1,13 +1,8 @@
-# Mohammed Suhail — Meta Ads Portfolio
+# Mohammed Suhail — 3D Meta Ads Portfolio
 
-Cinematic one-page portfolio for Meta Ads / Performance Marketing.
+Cinematic static portfolio with a lightweight Three.js WebGL hero, CSS 3D campaign visuals, cursor tilt and responsive layouts.
 
-## Publish with GitHub Pages
+## Publish
+Use GitHub Pages from `main` and `/(root)`.
 
-GitHub Pages can publish a static site directly from a repository. Use **Settings → Pages → Deploy from a branch → main → /(root)**, then save. GitHub's documentation confirms this setup for static sites.
-
-## Before sharing
-
-Replace `YOUR_EMAIL_HERE` in `index.html` with your real contact email.
-
-Keep campaign metrics factual and only add specific results that can be supported by your actual records.
+Three.js is loaded from a public CDN; no paid service is required.
